@@ -183,7 +183,7 @@ flights |>
 ```
 
 You can combine `arrange()` and `filter()` to solve more complex problems.
-For example, we could look for the flights that were most delayed on arrival that left on roughly on time:
+For example, we could look for the flights that were most delayed on arrival that left roughly on time:
 
 ```{r}
 flights |> 
